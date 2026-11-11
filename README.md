@@ -46,15 +46,15 @@
 The repo is its own plugin marketplace. Run this in the terminal:
 
 ```bash
-claude plugin marketplace add data-goblin/claude-code-filetree
-claude plugin install filetree@claude-code-filetree
+claude plugin marketplace add volkstrader/cc-mod-filetree
+claude plugin install filetree@volkstrader-filetree
 ```
 
 Or inside a Claude Code session:
 
 ```text
-/plugin marketplace add data-goblin/claude-code-filetree
-/plugin install filetree@claude-code-filetree
+/plugin marketplace add volkstrader/cc-mod-filetree
+/plugin install filetree@volkstrader-filetree
 ```
 
 An install fails with `Unrecognized key: "options"` on Claude Code older than 2.1.287: run `claude update`, then install again.

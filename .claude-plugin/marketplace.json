@@ -1,10 +1,11 @@
 {
-  "name": "claude-code-filetree",
+  "name": "volkstrader-filetree",
   "owner": {
-    "name": "Kurt Buhler"
+    "name": "volkstrader",
+    "url": "https://github.com/volkstrader"
   },
   "metadata": {
-    "description": "An IDE-style file tree for Claude Code that shows what Claude is doing and where in files"
+    "description": "An IDE-style file tree for Claude Code that shows what Claude is doing and where in files (volkstrader fork of data-goblin/claude-code-filetree, MIT)"
   },
   "plugins": [
     {
